@@ -248,7 +248,7 @@ section{
 }
 
 .popup{
-   width: 50%;
+   width: 60%;
    height: 50rem;
    background: #222020;
    color: #fff;
@@ -269,11 +269,6 @@ section{
    color: #fff;
    font-size: 3rem;
 } 
-
-.popup p{
-   color: #fff;
-   font-size: 2rem;
-}
 
 .popup button{
    width: 100%;
